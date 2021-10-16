@@ -1,0 +1,5 @@
+一些函数：
+open:打开文件
+.readlines()：阅读每一行
+.strip:去除空白 .split('')分割
+
